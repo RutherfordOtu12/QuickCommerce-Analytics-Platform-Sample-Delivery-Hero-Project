@@ -12,7 +12,7 @@ This project directly addresses the key requirements outlined in the Delivery He
 The platform encompasses five major components that work together to provide comprehensive business intelligence:
 
 # Database & Data Pipeline:
-A fully normalized MySQL database (with SQLite alternative) featuring eight interconnected tables containing 25,000 orders, 5,000 customers, 144 active shops, and 179 products across eight categories. The production-ready schema uses proper data types (DECIMAL for currency, DATETIME for timestamps), InnoDB engine for ACID compliance, foreign key constraints, and strategic indexes for optimal query performance. The synthetic dataset realistically models Delivery Hero's Local Shops business with proper relationships and enterprise-grade design.
+A fully normalized MySQL database featuring eight interconnected tables containing 25,000 orders, 5,000 customers, 144 active shops, and 179 products across eight categories. The production-ready schema uses proper data types (DECIMAL for currency, DATETIME for timestamps), InnoDB engine for ACID compliance, foreign key constraints, and strategic indexes for optimal query performance. The synthetic dataset realistically models Delivery Hero's Local Shops business with proper relationships and enterprise-grade design.
 
 # SQL Analytics:
 Over 20 production-ready SQL queries organized into six categories covering business performance metrics, customer analytics, product performance, shop analytics, operational efficiency, and data quality monitoring. The queries demonstrate advanced SQL techniques including window functions, common table expressions, cohort analysis, and self-joins for cross-sell analysis.
