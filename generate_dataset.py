@@ -1,7 +1,6 @@
 """
 QuickShop Analytics - Realistic Dataset Generator
 Generates synthetic but realistic data for a quick commerce platform
-mimicking Delivery Hero's Local Shops business model
 """
 
 import pandas as pd
