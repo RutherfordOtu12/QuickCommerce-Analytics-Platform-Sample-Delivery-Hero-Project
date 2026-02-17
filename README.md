@@ -15,7 +15,7 @@ The platform encompasses five major components that work together to provide com
 A fully normalized MySQL database featuring eight interconnected tables containing 25,000 orders, 5,000 customers, 144 active shops, and 179 products across eight categories. The production-ready schema uses proper data types (DECIMAL for currency, DATETIME for timestamps), InnoDB engine for ACID compliance, foreign key constraints, and strategic indexes for optimal query performance. The synthetic dataset realistically models Delivery Hero's Local Shops business with proper relationships and enterprise-grade design.
 
 # SQL Analytics:
-Over 20 production-ready SQL queries organized into six categories covering business performance metrics, customer analytics, product performance, shop analytics, operational efficiency, and data quality monitoring. The queries demonstrate advanced SQL techniques including window functions, common table expressions, cohort analysis, and self-joins for cross-sell analysis.
+About 10 production-ready SQL queries covering business performance metrics, customer analytics, product performance, shop analytics and data quality monitoring. The queries demonstrate SQL techniques including window functions, common table expressions, and self-joins for cross-sell analysis.
 
 # Python Data Analysis:
 Comprehensive Python scripts implementing time series analysis with moving averages, customer cohort retention analysis, RFM (Recency, Frequency, Monetary) segmentation, product basket analysis, and geographic performance visualization. All analysis outputs are automatically saved as both CSV files and publication-quality visualizations.
