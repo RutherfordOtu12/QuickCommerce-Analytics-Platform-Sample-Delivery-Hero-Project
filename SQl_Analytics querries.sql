@@ -1,6 +1,6 @@
 -- QuickShop Analytics - SQL Queries Collection
 
--- Demonstrates SQL proficiency for Delivery Hero Working Student position
+-- Demonstrates SQL proficiency
 
 -- =============================================================================
 -- 1. BUSINESS PERFORMANCE METRICS
